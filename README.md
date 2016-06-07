@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/22548/SELAB-AA/fragbinpacking-problems.svg)](https://zenodo.org/badge/latestdoi/22548/SELAB-AA/fragbinpacking-problems)
 # fragbinpacking-problems
 Problem Sets for the Fragmentable Items Bin Packing Problem
 
